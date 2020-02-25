@@ -1,0 +1,13 @@
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/bin/Debug/netstandard2.0/AccessibilityName.deps.json
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/bin/Debug/netstandard2.0/AccessibilityName.dll
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/bin/Debug/netstandard2.0/ref/AccessibilityName.dll
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/bin/Debug/netstandard2.0/AccessibilityName.pdb
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/AccessibilityName.csprojAssemblyReference.cache
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/AccessibilityName.AssemblyInfoInputs.cache
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/AccessibilityName.AssemblyInfo.cs
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/AccessibilityName.dll
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/ref/AccessibilityName.dll
+/Users/paolopecis/Projects/LabelProblem/AccessibilityName/AccessibilityName/obj/Debug/netstandard2.0/AccessibilityName.pdb

@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9BA7FBC9-A32A-4983-97D2-3E7B9B3E5DEB}|Default">
+  <MonoDevelop.Ide.ItemProperties.AccessibilityName.Android FirstBuild="True" PreferredExecutionTarget="Android.galaxy_s9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AccessibilityName/MainPage.xaml">
+    <Files>
+      <File FileName="AccessibilityName/MainPage.xaml" Line="3" Column="19" />
+      <File FileName="AccessibilityName/MainPage.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AccessibilityName" expanded="True">
+            <Node name="AccessibilityName" expanded="True">
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.AccessibilityName.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AccessibilityName FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
